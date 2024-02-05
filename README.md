@@ -5,13 +5,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Software engineer with over one year of experience in java, spring boot, MySQL.
+Software engineer with over one year of experience in java, spring boot and microservices.
 
 * 🌍  I'm based in Hyderabad, India.
-* 🧠  I'm learning next.js
-* 👀  I’m interested in cyber security 
+* 🧠  Currently I'm learning Angular.
+* 👀  I’m interested in security and Backend.
 * 💞️  I’m looking to collaborate on java or c++ development related projects.
-* ✉️  You can contact me at [balajigaandla4@gmail.com](mailto:balajigaandla4@gmail.com)
+* ✉️  You can contact me at [balajigandla04@gmail.com](mailto:balajigandla04@gmail.com)
 
 ### Skills
 
