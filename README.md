@@ -5,13 +5,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Software engineer with over one year of experience in java, spring boot and microservices.
+Software engineer with over 2 years of experience in java, spring boot and microservices.
 
 * 🌍  I'm based in Hyderabad, India.
 * 🧠  Currently I'm learning Angular.
-* 👀  I’m interested in Backend development and cyber secuty.
-* 💞️  I’m looking to collaborate on java or c++ development related projects.
-* ✉️  You can contact me at [balajigandla04@gmail.com](mailto:balajigandla04@gmail.com)
+* I’m interested in Backend development and cyber secuty.
+* I’m looking to collaborate on java or c++ development related projects.
+* You can contact me at [balajigandla04@gmail.com](mailto:balajigandla04@gmail.com)
+* Enthusiast in Opensource.
+* 
 
 ### Skills
 
